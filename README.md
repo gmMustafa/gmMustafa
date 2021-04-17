@@ -23,8 +23,8 @@
 ![](https://img.shields.io/badge/Technology-iOS-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Editor-Vs%20Tool-informational?style=flat&logo=android-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vs%20Tool-informational?style=flat&logo=XCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-informational?style=flat&logo=XCode&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
