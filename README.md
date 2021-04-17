@@ -19,12 +19,12 @@
 ![](https://img.shields.io/badge/OS-Mac%20OS-informational?logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-iOS-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
