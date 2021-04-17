@@ -13,6 +13,14 @@
 <br />
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="gm070797's GitHub Stats" src="https://github-readme-stats.gmMustafa.vercel.app/api?username=gmMustafa&show_icons=true&hide_border=true" />
+
+</details>
+
+
 
 
 [twitter]: https://twitter.com/gm070797/
