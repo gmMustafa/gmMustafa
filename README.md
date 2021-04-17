@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Technology-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-iOS-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tool-androidstudo-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
