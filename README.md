@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmMustafa
 - 👀 I’m interested in Mobile Application Dev.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Mobile & Web Dev.
 - 💞️ I’m looking to collaborate on mobile apps.
 - 📫 How to reach me GM070797@gmail.com
 
@@ -22,8 +22,8 @@
 ![](https://img.shields.io/badge/Technology-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-iOS-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/Editor-Vs%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 <br />
