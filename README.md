@@ -27,14 +27,17 @@
 ![](https://img.shields.io/badge/Technology-swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Code%20Igniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vs%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
