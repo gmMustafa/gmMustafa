@@ -4,7 +4,6 @@
 - 📲 Managed apps on Play Store, App Store, and Huawei App Gallery; AWS Certified, proficient in Agile methodologies.
 - 🌟 Driven to create impactful software; exploring cutting-edge tech. Open for collaborations.
 - Reach out at GM070797@gmail.com.
-
 ### Connect with me:
 
 [<img align="left" alt="gm070797 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,6 +17,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac%20OS-informational?logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+<br />
 
 ![](https://img.shields.io/badge/Technology-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-iOS-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
@@ -41,6 +41,10 @@
 ![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Field-MachineLearning-informational?style=flat&logo=ai&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Field-DeepLearning-informational?style=flat&logo=deeplearning&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Field-ArtificialIntelligence-informational?style=flat&logo=artificial-intelligence&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
