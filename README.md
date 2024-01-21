@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gmMustafa
-- 👀 I’m interested in Mobile Application Dev.
-- 🌱 I’m currently learning Mobile & Web Dev.
-- 💞️ I’m looking to collaborate on mobile apps.
-- 📫 How to reach me GM070797@gmail.com
-
+- 🚀 Software engineer specializing in mobile/web apps, now an AI Master's student at Friedrich-Alexander-Universität.
+- 💼 Expert in fintech solutions for top Pakistani banks, adept in Java, Kotlin, Swift, Python, and more.
+- 📲 Managed apps on Play Store, App Store, and Huawei App Gallery; AWS Certified, proficient in Agile methodologies.
+- 🌟 Driven to create impactful software; exploring cutting-edge tech. Open for collaborations.
+- Reach out at GM070797@gmail.com.
 
 ### Connect with me:
 
