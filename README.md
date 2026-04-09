@@ -1,55 +1,57 @@
-- 👋 Hi, I’m @gmMustafa
-- 🚀 Software engineer specializing in mobile/web apps, now an AI Master's student at Friedrich-Alexander-Universität.
-- 💼 Expert in fintech solutions for top Pakistani banks, adept in Java, Kotlin, Swift, Python, and more.
-- 📲 Managed apps on Play Store, App Store, and Huawei App Gallery; AWS Certified, proficient in Agile methodologies.
-- 🌟 Driven to create impactful software; exploring cutting-edge tech. Open for collaborations.
-- Reach out at GM070797@gmail.com.
-### Connect with me:
+# 👋 Hi, I'm Ghulam Mustafa
 
-[<img align="left" alt="gm070797 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gm070797 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**AI Engineer | Full-Stack Developer | Building intelligent systems at scale**
 
-<br />
+🔗 [LinkedIn](https://www.linkedin.com/in/ghulammustafa97) · [Portfolio](https://gmmustafa.netlify.app) · [Email](mailto:gm.ghulammustafa97@gmail.com)
 
+---
 
-### Languages and Tools:
+## 🎯 About Me
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac%20OS-informational?logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-<br />
+Software engineer with **5+ years** of experience building AI-driven platforms, mobile applications, and scalable backends. Currently pursuing an **MSc in Artificial Intelligence** at FAU Erlangen-Nürnberg while working at **Infineon Technologies**.
 
-![](https://img.shields.io/badge/Technology-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-iOS-informational?style=flat&logo=iOS&logoColor=white&color=2bbc8a)
+**Key Highlights:**
+- 🏢 **Enterprise-scale delivery**: Reduced analyst effort by 50% at Infineon; delivered banking app with 1M+ downloads at Techlogix
+- 🤖 **AI/ML expertise**: Few-shot learning, computer vision, RAG systems, LLM pipelines
+- 📱 **Mobile mastery**: Full-stack Android/iOS development with 1M+ user apps
+- 🔧 **Full-stack**: Python, Java, Kotlin, TypeScript; FastAPI, Node.js, React, Next.js
+- ☁️ **Infrastructure**: Docker, CI/CD, AWS (Certified Cloud Practitioner)
 
-![](https://img.shields.io/badge/Tool-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
+---
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+## 🛠️ Technical Skills
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, Java, Kotlin, JavaScript/TypeScript, Swift, C++ |
+| **AI/ML** | PyTorch, Computer Vision, NLP, Few-Shot Learning, Pandas, NumPy |
+| **LLM Systems** | RAG, FAISS, Vector Databases, LLM Pipelines, FastAPI |
+| **Mobile** | Android (MVVM, Jetpack Compose, Room, Dagger2, RxJava, Crashlytics), iOS (Swift/Obj-C) |
+| **Web & Backend** | FastAPI, Node.js, Express.js, React, Next.js, Django, REST APIs, Tailwind CSS |
+| **Infrastructure** | Docker, CI/CD, Jenkins, AWS (EC2, S3, Lambda, IAM), Kubernetes |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase, Oracle |
+| **Tools & DevOps** | Git, Jira, Confluence, Linux, Android Studio, Xcode, VSCode |
 
-![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vs%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+---
 
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+## 📊 Repository Highlights
 
-![](https://img.shields.io/badge/Field-MachineLearning-informational?style=flat&logo=ai&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Field-DeepLearning-informational?style=flat&logo=deeplearning&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Field-ArtificialIntelligence-informational?style=flat&logo=artificial-intelligence&logoColor=white&color=2bbc8a)
+My GitHub showcases projects across:
+- **AI/ML**: Few-shot learning, computer vision, NLP pipelines
+- **Mobile**: Android & iOS apps with production-scale architecture
+- **Full-Stack**: Web apps, APIs, databases, deployment pipelines
+- **Data Science**: Analysis, visualization, and predictive modeling
 
-<br />
-<br />
+---
 
+## 📬 Let's Connect!
 
-[twitter]: https://twitter.com/gm070797/
-[linkedin]: https://www.linkedin.com/in/ghulammustafa97/
+I'm always interested in discussing AI/ML projects, full-stack opportunities, and innovative tech solutions.
 
+- **Email**: [gm.ghulammustafa97@gmail.com](mailto:gm.ghulammustafa97@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ghulammustafa97](https://www.linkedin.com/in/ghulammustafa97)
+- **Portfolio**: [gmmustafa.netlify.app](https://gmmustafa.netlify.app)
+
+---
+
+*Updated April 2026 | Passion for AI, Full-Stack Excellence, & Building at Scale* 🚀
