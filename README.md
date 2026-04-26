@@ -2,13 +2,19 @@
 
 **AI Engineer | Full-Stack Developer | Building intelligent systems at scale**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ghulammustafa97) · [Portfolio](https://gmmustafa.netlify.app) · [Email](mailto:gm.ghulammustafa97@gmail.com)
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulammustafa97/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm.ghulammustafa97@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gmmustafa.netlify.app/)
 
 ---
 
 ## 🎯 About Me
 
-Software engineer with **5+ years** of experience building AI-driven platforms, mobile applications, and scalable backends. Currently pursuing an **MSc in Artificial Intelligence** at FAU Erlangen-Nürnberg while working at **Infineon Technologies**.
+AI Engineer with **5+ years** of experience building intelligent systems, mobile applications, and scalable backends and currently pursuing an **MSc in Artificial Intelligence** at FAU Erlangen-Nürnberg while working at **Infineon Technologies**.
+
+🟢 **Available for full-time AI/ML Engineering roles in Germany starting May 2026. ****
 
 **Key Highlights:**
 - 🏢 **Enterprise-scale delivery**: Reduced analyst effort by 50% at Infineon; delivered banking app with 1M+ downloads at Techlogix
@@ -24,34 +30,14 @@ Software engineer with **5+ years** of experience building AI-driven platforms, 
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python, Java, Kotlin, JavaScript/TypeScript, Swift, C++ |
-| **AI/ML** | PyTorch, Computer Vision, NLP, Few-Shot Learning, Pandas, NumPy |
-| **LLM Systems** | RAG, FAISS, Vector Databases, LLM Pipelines, FastAPI |
+| **AI/ML** | PyTorch, TensorFlow, Computer Vision, NLP, Few-Shot Learning, NumPy, Pandas |
+| **LLM & Agentic AI** | LangChain, LangGraph, LlamaIndex, RAG, FAISS, Pinecone, Chroma, Qdrant, OpenAI API, Anthropic API, HuggingFace |
+| **Fine-Tuning** | LoRA, QLoRA, Unsloth, PEFT, HuggingFace Transformers |
+| **Observability** | LangSmith, Weights & Biases |
 | **Mobile** | Android (MVVM, Jetpack Compose, Room, Dagger2, RxJava, Crashlytics), iOS (Swift/Obj-C) |
-| **Web & Backend** | FastAPI, Node.js, Express.js, React, Next.js, Django, REST APIs, Tailwind CSS |
-| **Infrastructure** | Docker, CI/CD, Jenkins, AWS (EC2, S3, Lambda, IAM), Kubernetes |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase, Oracle |
-| **Tools & DevOps** | Git, Jira, Confluence, Linux, Android Studio, Xcode, VSCode |
+| **Web & Backend** | FastAPI, Node.js, Express.js, NestJS, React, Next.js, Django, REST APIs, Tailwind CSS |
+| **Infrastructure** | Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, AWS (EC2, S3, Lambda, IAM) |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch, Firebase |
+| **Tools & DevOps** | Git, Jira, Confluence, Linux, Postman, VSCode |
 
 ---
-
-## 📊 Repository Highlights
-
-My GitHub showcases projects across:
-- **AI/ML**: Few-shot learning, computer vision, NLP pipelines
-- **Mobile**: Android & iOS apps with production-scale architecture
-- **Full-Stack**: Web apps, APIs, databases, deployment pipelines
-- **Data Science**: Analysis, visualization, and predictive modeling
-
----
-
-## 📬 Let's Connect!
-
-I'm always interested in discussing AI/ML projects, full-stack opportunities, and innovative tech solutions.
-
-- **Email**: [gm.ghulammustafa97@gmail.com](mailto:gm.ghulammustafa97@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ghulammustafa97](https://www.linkedin.com/in/ghulammustafa97)
-- **Portfolio**: [gmmustafa.netlify.app](https://gmmustafa.netlify.app)
-
----
-
-*Updated April 2026 | Passion for AI, Full-Stack Excellence, & Building at Scale* 🚀
