@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ghulam Mustafa
 
-**AI Engineer | Full-Stack Developer | Building intelligent systems at scale**
+**AI & Data Engineer | Full-Stack Developer | Building intelligent systems at scale**
 
 ## 🌐 Socials
 
@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-AI Engineer with **5+ years** of experience building intelligent systems, mobile applications, and scalable backends and currently pursuing an **MSc in Artificial Intelligence** at FAU Erlangen-Nürnberg while working at **Infineon Technologies**.
+AI Engineer with experience building intelligent systems, mobile applications, and scalable backends and currently pursuing an **MSc in Artificial Intelligence** at FAU Erlangen-Nürnberg while working at **Infineon Technologies**.
 
 **Key Highlights:**
 - 🏢 **Enterprise-scale delivery**: Reduced analyst effort by 50% at Infineon; delivered banking app with 1M+ downloads at Techlogix
