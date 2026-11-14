@@ -14,8 +14,6 @@
 
 AI Engineer with **5+ years** of experience building intelligent systems, mobile applications, and scalable backends and currently pursuing an **MSc in Artificial Intelligence** at FAU Erlangen-Nürnberg while working at **Infineon Technologies**.
 
-🟢 **Available for full-time AI/ML Engineering roles in Germany starting May 2026. ****
-
 **Key Highlights:**
 - 🏢 **Enterprise-scale delivery**: Reduced analyst effort by 50% at Infineon; delivered banking app with 1M+ downloads at Techlogix
 - 🤖 **AI/ML expertise**: Few-shot learning, computer vision, RAG systems, LLM pipelines
