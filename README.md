@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=false&vCenter=true&width=520&lines=AI+%26+Software+Engineer;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+LLM+Apps;From+idea+to+production%2C+with+the+client+in+the+room" alt="Typing intro" />
 </a>
 
-At **Infineon**, while finishing my **MSc in AI at FAU Erlangen-Nürnberg**, I build agentic AI and RAG systems from idea to production, and I've shipped mobile apps to **1M+ users**.
+I build agentic AI and RAG systems from idea to production, and I've shipped mobile apps to **1M+ users**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gmmustafa.netlify.app-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gmmustafa.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ghulammustafa97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulammustafa97/)
